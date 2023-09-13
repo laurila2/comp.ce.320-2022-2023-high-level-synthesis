@@ -1,1 +1,1 @@
-# high_level_synthesis
+# COMP.CE.240 Logic Synthesis
